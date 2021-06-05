@@ -47,6 +47,14 @@
     border-radius: 4px;
     color: white;
 }
+.Updatebutton{
+    padding: 10px 25px;
+    margin: 20px 7px;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
 .student_list{
     margin: 30px;
     
